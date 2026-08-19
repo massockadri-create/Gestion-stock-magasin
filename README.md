@@ -1,5 +1,6 @@
 # Gestion Cahiers — Stock & Facturation
 
+
 Vraie application de gestion (pas un fichier Excel) pour une librairie/papeterie :
 stock en temps réel, conversion automatique **carton → paquet → pièce**, entrées,
 sorties (client/commerce/librairie/autre), ventes avec facturation automatique,
